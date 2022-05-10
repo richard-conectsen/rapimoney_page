@@ -25,7 +25,8 @@ class App extends BaseConfig
     #public $baseURL = 'http://www.rapimoney.pe/';
     #public $baseURL = 'http://localhost/rapimoney_5S/';
     #public $baseURL = 'http://localhost:8090/rapimoney_5S/';
-    public $baseURL = 'https://rapimoney.pe/';
+    #public $baseURL = 'https://rapimoney.pe/';
+    public $baseURL = 'https://melodious-eclair-3f9564.netlify.app/';
 
     /*
     |--------------------------------------------------------------------------
